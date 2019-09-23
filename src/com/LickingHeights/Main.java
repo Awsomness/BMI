@@ -29,6 +29,7 @@ public class Main {
         bmi=kg/(meters*meters);
         System.out.println("Your bmi is...");
         System.out.println(bmi);
+        System.out.println("Goodbye");
 
 
 
